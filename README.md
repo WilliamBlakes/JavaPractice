@@ -4,6 +4,5 @@
 
 ## Contact
 - Email: michaelblake031s@gmail.com
-- GitHub: github.com/ivanpetrov
 ---
 
